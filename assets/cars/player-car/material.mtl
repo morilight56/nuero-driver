@@ -4,7 +4,7 @@ Ke 0.000 0.000 0.000
 Ni 1.500
 d 1.0
 illum 2
-map_Kd texture_pbr_20250901.jpg
-map_Pm texture_pbr_20250901_metallic.jpg
-map_Pr texture_pbr_20250901_roughness.jpg
-map_Bump texture_pbr_20250901_normal.jpg
+map_Kd texture_pbr_20250901.png
+map_Pm texture_pbr_20250901_metallic.png
+map_Pr texture_pbr_20250901_roughness.png
+map_Bump texture_pbr_20250901_normal.png
